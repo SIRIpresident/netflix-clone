@@ -1,4 +1,2 @@
-# message
-# react-class
-
-# email : batman0629@naver.com
+가서 제출할게ㅠㅜ
+깃허브에 올리는 방법을 모르겠어요
